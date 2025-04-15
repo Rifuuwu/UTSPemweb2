@@ -736,3 +736,35 @@ ERROR - 2025-04-15 11:48:31 --> Severity: Warning --> mysqli::real_connect(): (H
 ERROR - 2025-04-15 11:48:31 --> Unable to connect to the database
 ERROR - 2025-04-15 11:48:34 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it D:\herd\uts-pemweb\system\database\drivers\mysqli\mysqli_driver.php 211
 ERROR - 2025-04-15 11:48:34 --> Unable to connect to the database
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 58
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70
+ERROR - 2025-04-15 12:09:43 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\tambah.php 70

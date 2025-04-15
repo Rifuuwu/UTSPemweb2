@@ -50,23 +50,28 @@
             </select>
         </div>
 
-        <div class="row mb-3">
-            <div class="col">
-                <label for="slot_mulai" class="form-label">Slot Mulai</label>
-                <select name="slot_mulai" class="form-select" required>
-                    <?php foreach (['A','B','C','D','E','F','G','H'] as $slot): ?>
-                        <option value="<?= $slot ?>"><?= $slot ?></option>
-                    <?php endforeach; ?>
-                </select>
-            </div>
-            <div class="col">
-                <label for="slot_selesai" class="form-label">Slot Selesai</label>
-                <select name="slot_selesai" class="form-select" required>
-                    <?php foreach (['A','B','C','D','E','F','G','H'] as $slot): ?>
-                        <option value="<?= $slot ?>"><?= $slot ?></option>
-                    <?php endforeach; ?>
-                </select>
-            </div>
+        <div class="mb-3">
+            <label for="slot_mulai" class="form-label">Slot Mulai</label>
+            <select class="form-select" name="slot_mulai" id="slot_mulai" required>
+                <option value="">-- Pilih Slot Mulai --</option>
+                <?php foreach ($slot_map as $key => $jam): ?>
+                    <option>
+                        <?= "$key ($jam)" ?>
+                    </option>
+                <?php endforeach; ?>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="slot_selesai" class="form-label">Slot Selesai</label>
+            <select class="form-select" name="slot_selesai" id="slot_selesai" required>
+                <option value="">-- Pilih Slot Selesai --</option>
+                <?php foreach ($slot_map as $key => $jam): ?>
+                    <option>
+                        <?= "$key ($jam)" ?>
+                    </option>
+                <?php endforeach; ?>
+            </select>
         </div>
 
         <button type="submit" class="btn btn-success">Simpan</button>
