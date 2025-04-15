@@ -32,6 +32,11 @@ class Jadwal_model extends CI_Model {
         return $result;
     }
 
+    public function getById($id) {
+        $this->db->where('id_jadwal', $id);
+        return $this->db->get($this->table)->row();
+    }
+
     public function insert($data) {
         return $this->db->insert($this->table, $data);
     }
@@ -44,16 +49,34 @@ class Jadwal_model extends CI_Model {
         return $this->db->where('id_jadwal', $id)->delete($this->table);
     }
 
-    // Cek konflik berdasarkan slot
-    public function checkConflict($nip, $id_ruang, $hari, $slot_mulai, $slot_selesai) {
-        $this->db->from($this->table);
+
+    
+    public function checkConflict($nip, $id_ruang, $hari, $slot_mulai, $slot_selesai, $exclude_id = null) {
+        $this->db->from('jadwal');
+        
+        
         $this->db->where('hari', $hari);
-        $this->db->where("(
-            (slot_mulai <= '$slot_selesai' AND slot_selesai >= '$slot_mulai')
-        )");
-        $this->db->where("(nip = '$nip' OR id_ruang = $id_ruang)");
-        return $this->db->get()->num_rows() > 0;
+        
+        
+        $this->db->where('(
+            (slot_mulai < "' . $slot_selesai . '" AND slot_selesai > "' . $slot_mulai . '")
+        )');
+        
+        
+        $this->db->group_start();
+            $this->db->or_where('nip', $nip);
+            $this->db->or_where('id_ruang', $id_ruang);
+        $this->db->group_end();
+    
+        
+        if ($exclude_id !== null) {
+            $this->db->where('id_jadwal !=', $exclude_id);
+        }
+    
+        $query = $this->db->get();
+        return $query->num_rows() > 0;
     }
+    
 
     public function get_slot_map() {
         return $this->slot_map;

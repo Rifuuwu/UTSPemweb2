@@ -349,3 +349,386 @@ ERROR - 2025-04-15 05:58:16 --> Severity: Warning --> Undefined variable $r C:\l
 ERROR - 2025-04-15 05:58:16 --> Severity: Warning --> Attempt to read property "id_ruang" on null C:\laragon\www\uts-pemweb\application\views\matkul\index.php 34
 ERROR - 2025-04-15 06:12:30 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it C:\laragon\www\uts-pemweb\system\database\drivers\mysqli\mysqli_driver.php 211
 ERROR - 2025-04-15 06:12:30 --> Unable to connect to the database
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 68
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 69
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 68
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 69
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 68
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 69
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 68
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 69
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 68
+ERROR - 2025-04-15 08:52:50 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\index.php 69
+ERROR - 2025-04-15 08:53:15 --> 404 Page Not Found: Jadwal/edit
+ERROR - 2025-04-15 08:53:36 --> 404 Page Not Found: Jadwal/edit
+ERROR - 2025-04-15 08:57:12 --> Severity: error --> Exception: Call to undefined method Jadwal_model::getById() D:\herd\uts-pemweb\application\controllers\Jadwal.php 74
+ERROR - 2025-04-15 08:58:31 --> Severity: Warning --> Undefined property: stdClass::$nama D:\herd\uts-pemweb\application\views\jadwal\edit.php 17
+ERROR - 2025-04-15 08:58:31 --> Severity: Warning --> Undefined property: stdClass::$nama D:\herd\uts-pemweb\application\views\jadwal\edit.php 17
+ERROR - 2025-04-15 08:58:31 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 08:58:31 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 08:58:31 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:58:31 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:58:31 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:58:31 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:59:10 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 08:59:10 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 08:59:10 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:59:10 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:59:10 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:59:10 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:59:34 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 08:59:34 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:59:34 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:59:34 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 08:59:34 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:16 --> Severity: Warning --> Undefined property: stdClass::$id_jadwal D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:00:16 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:00:16 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:16 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:16 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:16 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:29 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:00:29 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:29 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:29 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:29 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:39 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:00:39 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:39 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:39 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:00:39 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:02:43 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:02:43 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:02:43 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:02:43 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:02:43 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:03:34 --> Severity: Warning --> Undefined property: stdClass::$id D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:08:08 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 6
+ERROR - 2025-04-15 09:08:08 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 9
+ERROR - 2025-04-15 09:08:08 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 14
+ERROR - 2025-04-15 09:08:08 --> Severity: Warning --> Attempt to read property "no_hp" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 19
+ERROR - 2025-04-15 09:09:12 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 6
+ERROR - 2025-04-15 09:09:12 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 9
+ERROR - 2025-04-15 09:09:12 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 14
+ERROR - 2025-04-15 09:09:12 --> Severity: Warning --> Attempt to read property "no_hp" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 19
+ERROR - 2025-04-15 09:09:45 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 6
+ERROR - 2025-04-15 09:09:45 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 9
+ERROR - 2025-04-15 09:09:45 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 14
+ERROR - 2025-04-15 09:09:46 --> Severity: Warning --> Attempt to read property "no_hp" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 19
+ERROR - 2025-04-15 09:09:46 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 6
+ERROR - 2025-04-15 09:09:46 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 9
+ERROR - 2025-04-15 09:09:46 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 14
+ERROR - 2025-04-15 09:09:46 --> Severity: Warning --> Attempt to read property "no_hp" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 19
+ERROR - 2025-04-15 09:10:20 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 6
+ERROR - 2025-04-15 09:10:20 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 9
+ERROR - 2025-04-15 09:10:20 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 14
+ERROR - 2025-04-15 09:10:20 --> Severity: Warning --> Attempt to read property "no_hp" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 19
+ERROR - 2025-04-15 09:10:29 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 6
+ERROR - 2025-04-15 09:10:29 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 9
+ERROR - 2025-04-15 09:10:29 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 14
+ERROR - 2025-04-15 09:10:29 --> Severity: Warning --> Attempt to read property "no_hp" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 19
+ERROR - 2025-04-15 09:10:47 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 6
+ERROR - 2025-04-15 09:10:47 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 9
+ERROR - 2025-04-15 09:10:47 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 14
+ERROR - 2025-04-15 09:10:47 --> Severity: Warning --> Attempt to read property "no_hp" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 19
+ERROR - 2025-04-15 09:11:08 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 6
+ERROR - 2025-04-15 09:11:08 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 9
+ERROR - 2025-04-15 09:11:08 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 14
+ERROR - 2025-04-15 09:11:08 --> Severity: Warning --> Attempt to read property "no_hp" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 19
+ERROR - 2025-04-15 09:15:20 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 6
+ERROR - 2025-04-15 09:15:20 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 9
+ERROR - 2025-04-15 09:15:20 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 14
+ERROR - 2025-04-15 09:15:20 --> Severity: Warning --> Attempt to read property "no_hp" on null D:\herd\uts-pemweb\application\views\dosen\edit.php 19
+ERROR - 2025-04-15 09:16:08 --> 404 Page Not Found: Matkul/edit
+ERROR - 2025-04-15 09:16:11 --> 404 Page Not Found: Matkul/edit
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:31:56 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "nama_dosen" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:44 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:38:54 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "id_jadwal" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "id_jadwal" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "id_jadwal" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:06 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "nip" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 16
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "id_matkul" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 28
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "id_ruang" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 40
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "hari" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 54
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_mulai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 66
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Undefined variable $jadwal_item D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:39:33 --> Severity: Warning --> Attempt to read property "slot_selesai" on null D:\herd\uts-pemweb\application\views\jadwal\edit.php 78
+ERROR - 2025-04-15 09:40:52 --> Query error: Unknown column 'id' in 'where clause' - Invalid query: SELECT *
+FROM `jadwal`
+WHERE `hari` = 'Jumat'
+AND (
+            (slot_mulai < "G" AND slot_selesai > "E")
+        )
+AND   (
+`nip` = '5344'
+OR `id_ruang` = '1'
+ )
+AND `id` != '5'

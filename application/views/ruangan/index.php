@@ -8,6 +8,7 @@
     <?php endif; ?>
 
     <a href="<?= base_url('ruangan/tambah') ?>" class="btn btn-primary mb-3">Tambah Ruangan</a>
+    <a href="<?= base_url('jadwal') ?>" class="btn btn-primary mb-3">Kembali</a>
 
     <div class="table-responsive">
         <table class="table table-bordered text-center align-middle">
@@ -28,8 +29,8 @@
                         <td><?= $r->nama_ruang ?></td>
                         <td><?= $r->kapasitas ?></td>
                         <td>
-                            <a href="<?= base_url('dosen/edit/' . $r->id_ruang) ?>" class="btn btn-sm btn-warning">Edit</a>
-                            <a href="<?= base_url('dosen/hapus/' . $r->id_ruang) ?>" class="btn btn-sm btn-danger" onclick="return confirm('Yakin ingin menghapus dosen ini?')">Hapus</a>
+                            <a href="<?= base_url('ruangan/edit/' . $r->id_ruang) ?>" class="btn btn-sm btn-warning">Edit</a>
+                            <a href="<?= base_url('ruangan/hapus/' . $r->id_ruang) ?>" class="btn btn-sm btn-danger" onclick="return confirm('Yakin ingin menghapus ruangan ini?')">Hapus</a>
                         </td>
                     </tr>
                 <?php endforeach; ?>

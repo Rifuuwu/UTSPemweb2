@@ -14,6 +14,11 @@
             <input type="text" name="nama_dosen" class="form-control" value="<?= $dosen->nama_dosen ?>" required>
         </div>
 
+        <div class="mb-3">
+            <label for="no_hp" class="form-label">Nomor HP</label>
+            <input type="text" name="no_hp" class="form-control" value="<?= $dosen->no_hp ?>" required>
+        </div>
+
         <button type="submit" class="btn btn-primary">Update</button>
         <a href="<?= base_url('dosen') ?>" class="btn btn-secondary">Kembali</a>
     </form>

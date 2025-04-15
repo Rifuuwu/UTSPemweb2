@@ -5,17 +5,17 @@
 
     <form action="<?= base_url('ruangan/edit/' . $ruangan->id_ruang) ?>" method="post">
         <div class="mb-3">
-            <label for="nip" class="form-label">ID Ruangan</label>
-            <input type="text" name="nip" class="form-control" value="<?= $ruangan->id_ruang ?>" readonly>
+            <label for="id_ruang" class="form-label">ID Ruangan</label>
+            <input type="text" name="id_ruang" class="form-control" value="<?= $ruangan->id_ruang ?>" readonly>
         </div>
 
         <div class="mb-3">
-            <label for="nama_dosen" class="form-label">Nama Ruangan</label>
+            <label for="nama_ruang" class="form-label">Nama Ruangan</label>
             <input type="text" name="nama_ruang" class="form-control" value="<?= $ruangan->nama_ruang ?>" required>
         </div>
 
         <div class="mb-3">
-            <label for="nama_dosen" class="form-label">Kapasitas</label>
+            <label for="kapasitas" class="form-label">Kapasitas</label>
             <input type="text" name="kapasitas" class="form-control" value="<?= $ruangan->kapasitas ?>" required>
         </div>
 

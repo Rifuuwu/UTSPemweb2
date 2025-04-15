@@ -15,7 +15,7 @@
         </div>
 
         <div class="mb-3">
-            <label for="peserta" class="form-label">SKS</label>
+            <label for="peserta" class="form-label">Peserta</label>
             <input type="text" name="peserta" class="form-control" required>
         </div>
 

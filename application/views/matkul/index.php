@@ -8,6 +8,7 @@
     <?php endif; ?>
 
     <a href="<?= base_url('Mata_kuliah/tambah') ?>" class="btn btn-primary mb-3">Tambah Ruangan</a>
+    <a href="<?= base_url('Jadwal') ?>" class="btn btn-primary mb-3">Kembali</a>
 
     <div class="table-responsive">
         <table class="table table-bordered text-center align-middle">
@@ -30,8 +31,8 @@
                         <td><?= $m->sks ?></td>
                         <td><?= $m->peserta ?></td>
                         <td>
-                            <a href="<?= base_url('dosen/edit/' . $m->id_matkul) ?>" class="btn btn-sm btn-warning">Edit</a>
-                            <a href="<?= base_url('dosen/hapus/' . $m->id_matkul) ?>" class="btn btn-sm btn-danger" onclick="return confirm('Yakin ingin menghapus dosen ini?')">Hapus</a>
+                            <a href="<?= base_url('Mata_kuliah/edit/' . $m->id_matkul) ?>" class="btn btn-sm btn-warning">Edit</a>
+                            <a href="<?= base_url('Mata_kuliah/hapus/' . $m->id_matkul) ?>" class="btn btn-sm btn-danger" onclick="return confirm('Yakin ingin menghapus mata kuliah ini?')">Hapus</a>
                         </td>
                     </tr>
                 <?php endforeach; ?>

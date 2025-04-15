@@ -7,6 +7,4 @@
 <body>
 <div class="container mt-4">
     <h1 class="mb-4">Sistem Penjadwalan Kuliah</h1>
-    <?php if ($this->session->flashdata('success')): ?>
-        <div class="alert alert-success"><?= $this->session->flashdata('success') ?></div>
-    <?php endif; ?>
+
