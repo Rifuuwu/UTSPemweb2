@@ -732,3 +732,7 @@ AND   (
 OR `id_ruang` = '1'
  )
 AND `id` != '5'
+ERROR - 2025-04-15 11:48:31 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it D:\herd\uts-pemweb\system\database\drivers\mysqli\mysqli_driver.php 211
+ERROR - 2025-04-15 11:48:31 --> Unable to connect to the database
+ERROR - 2025-04-15 11:48:34 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it D:\herd\uts-pemweb\system\database\drivers\mysqli\mysqli_driver.php 211
+ERROR - 2025-04-15 11:48:34 --> Unable to connect to the database
